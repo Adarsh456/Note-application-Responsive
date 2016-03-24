@@ -13,5 +13,4 @@ You can do the following in this web app :
 
 4. Search for notes
 
-Demo: https://github.com/akonchady/Note-application-Responsive.git
-
+Demo: http://akonchady.github.io/Note-application-Responsive/
